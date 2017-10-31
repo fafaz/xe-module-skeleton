@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="0.2">
+	<title xml:lang="ko">FAFAZLAB MODULE</title>
+	<version>1.0.0</version>
+	<date>2017-10-15</date>
+	<category>exports ranking</category>
+
+	<author email_address="fafazlab@gmail.com" link="https://fafazlab.com/">
+		<name xml:lang="ko">fafaz</name>
+	</author>
+</module>
